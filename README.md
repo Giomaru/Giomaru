@@ -1,5 +1,7 @@
 ## Hi there Giomaru👋
 
+![me] {https://github.com/user-attachments/assets/5f7a3cbf-9d66-4807-b637-4dcd35e43bf4}
+
 <!--
 **Giomaru/Giomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
