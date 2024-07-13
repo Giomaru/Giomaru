@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Giomar Ramirez</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate developer from Perú</h3>
 
 ![bannerGIT](https://github.com/user-attachments/assets/5f7a3cbf-9d66-4807-b637-4dcd35e43bf4)
 
