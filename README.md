@@ -1,4 +1,4 @@
-## Hi there Giomaru👋
+## Hola soy Giomaru👋
 
 ![bannerGIT](https://github.com/user-attachments/assets/5f7a3cbf-9d66-4807-b637-4dcd35e43bf4)
 
