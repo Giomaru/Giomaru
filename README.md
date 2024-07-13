@@ -1,4 +1,4 @@
-## Hola soy Giomaru👋
+
 <h1 align="center">Hi 👋, I'm Giomar Ramirez</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
